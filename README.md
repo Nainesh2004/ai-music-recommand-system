@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🎵 AI Music Recommendation System
 
